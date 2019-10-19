@@ -7,7 +7,7 @@ private:
 	
 public:
 	Members();
-	Members(int a, int b);
-	int addMem(int c);
+	Members(int , int ); //initializing only doesnt require parameter variables
+	int addMem(int );
 	
 };
